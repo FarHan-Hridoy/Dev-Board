@@ -82,5 +82,5 @@ document.getElementById("clear-history").addEventListener("click", function () {
 // open blog site
 document.getElementById('open-blog').addEventListener('click', function(e){
   e.preventDefault()
-  window.location.href = '/blog.html'
+  window.location.href = 'blog.html'
 })
